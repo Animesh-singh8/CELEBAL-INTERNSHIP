@@ -1,0 +1,13 @@
+﻿--Animesh Singh (animesh10181@outlook.com)
+
+--Week 1 practical task 1 day 5 
+
+--DAX Studio was installed and connected to the Power BI model.
+
+--Cross filter direction for all relationships was changed to Single.
+
+--Referencing integrity was checked using DAX Studio:
+
+--No missing keys were found between Customers and Total Orders.
+
+--No missing keys were found between Plant and Total Orders.
